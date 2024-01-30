@@ -1,0 +1,10 @@
+{
+  "servers_list": [
+    "new.bronytales.com"
+  ],
+  "commands_list": [
+    "ok",
+    "hmm "
+  ],
+  "is_enabled_in_singleplayer": true
+}
