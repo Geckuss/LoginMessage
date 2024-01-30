@@ -2,6 +2,7 @@
 ## Description
 Mod which sends the message specified in the configuration, to the server, right after you join the server.
 Supports both single and multiplayer
+Written in Java using Fabric and Gradle
 
 ## Dependencies
 This mod requires [YetAnotherConfigLib](http://modrinth.com/mod/yacl/versions?g=1.19.2) to run. 
